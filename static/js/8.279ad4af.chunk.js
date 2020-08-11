@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-teach"]=this["webpackJsonpreact-teach"]||[]).push([[8],{306:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n);t.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,"\u5173\u4e8e\u6211"),c.a.createElement("p",{style:{fontSize:"20px"}},"\u5434\u70b3\u6d69\uff0c\u4e00\u4e2a\u60f3\u505a\u4e00\u4e2a\u5927\u4f6c\uff0c\u4f46\u662f\u8fd8\u5dee\u5f97\u5f88\u8fdc\u7684\u524d\u7aef\u5207\u56fe\u4ed4"))}}}]);
+//# sourceMappingURL=8.279ad4af.chunk.js.map
